@@ -7,11 +7,11 @@ Problema: Alunos da universidade que sofrem com problemas de aprendizado;
 <h4>Custo e Receita: </h4>Nossa plataforma tem como foco ser comunitária, à priori não temos planos de investimento para o mesmo, logo, o preço inicial será 0;
 
 ## ETAPA 1:
-Nome do sistema: CatTheVision 
-Objetivo do sistema: incentivar as pessoas a se ajudarem (sendo alunos ou não) e assim tirar dúvidas, além de ajudar no processo de formação dos mesmos, a idéia é a plataforma ser comunitária e trazer uma relação de ganha-ganha para os envolvidos, os usuários que consomem os vídeos irão poder absorver um conteúdo mais direcionado, enquanto aqueles que ensinam vão poder melhorar área como comunicação e claro aprender mais enquanto ensinam.
-Usuários principais: Alunos universitários;
-Principais funcionalidades: Envio de vídeos para a plataforma e visualização dos vídeos;
-Problema que será resolvido: Pessoas com problemas de aprendizado dentro de sala;
-Recursos desejados: Estrutura de feedbacks
-Plataforma: Web e Mobile;
-Prazos e expectativas:   11/2025
+<h4>Nome do sistema: </h4>CatTheVision 
+<h4>Objetivo do sistema: </h4>incentivar as pessoas a se ajudarem (sendo alunos ou não) e assim tirar dúvidas, além de ajudar no processo de formação dos mesmos, a idéia é a plataforma ser comunitária e trazer uma relação de ganha-ganha para os envolvidos, os usuários que consomem os vídeos irão poder absorver um conteúdo mais direcionado, enquanto aqueles que ensinam vão poder melhorar área como comunicação e claro aprender mais enquanto ensinam.
+<h4>Usuários principais: </h4>Alunos universitários;
+<h4>Principais funcionalidades: </h4>Envio de vídeos para a plataforma e visualização dos vídeos;
+<h4>Problema que será resolvido: </h4>Pessoas com problemas de aprendizado dentro de sala;
+<h4>Recursos desejados: </h4>Estrutura de feedbacks
+<h4>Plataforma: </h4>Web e Mobile;
+<h4>Prazos e expectativas: </h4>11/2025
