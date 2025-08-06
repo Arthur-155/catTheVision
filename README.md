@@ -1,6 +1,6 @@
 ## VISÃO GERAL
 Problema: Alunos da universidade que sofrem com problemas de aprendizado;
-<h1>Solução: </h1>Nossa plataforma terá como foco a ajuda comunitária, incentivando os alunos a se ajudarem e assim tirar dúvidas e ajudar no processo de formação dos mesmos!
+<h4>Solução: </h1>Nossa plataforma terá como foco a ajuda comunitária, incentivando os alunos a se ajudarem e assim tirar dúvidas e ajudar no processo de formação dos mesmos!
 Usuário e Clientes: Nossos usuários serão todos aqueles que tem interesse em conteúdos abordados em grades acadêmicas, independente do curso (engenharia, arquitetura, etc...)
 Recursos Principais: Mecanismo para envio dos vídeos da comunidade para a plataforma;
 Canais: Mobile e Web
