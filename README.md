@@ -17,7 +17,7 @@ Problema: Alunos da universidade que sofrem com problemas de aprendizado;
 <h4>Prazos e expectativas: </h4>11/2025
 
 
-Descrição dos Casos de Uso
+##Descrição dos Casos de Uso
 Caso de Uso 1: Enviar aula
 Ator principal: Professor
 Pré-condições: estar cadastrado na plataforma
