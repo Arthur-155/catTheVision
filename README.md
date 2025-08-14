@@ -1,62 +1,125 @@
-## VISÃO GERAL
-Problema: Alunos da universidade que sofrem com problemas de aprendizado;
-<h4>Solução: </h4>Nossa plataforma terá como foco a ajuda comunitária, incentivando os alunos a se ajudarem e assim tirar dúvidas e ajudar no processo de formação dos mesmos!
-<h4>Usuário e Clientes: </h4>Nossos usuários serão todos aqueles que tem interesse em conteúdos abordados em grades acadêmicas, independente do curso (engenharia, arquitetura, etc...)
-<h4>Recursos Principais: </h4>Mecanismo para envio dos vídeos da comunidade para a plataforma;
-<h4>Canais: </h4>Mobile e Web
-<h4>Custo e Receita: </h4>Nossa plataforma tem como foco ser comunitária, à priori não temos planos de investimento para o mesmo, logo, o preço inicial será 0;
+<h1>CatTheVision</h1>
 
-## ETAPA 1:
-<h4>Nome do sistema: </h4>CatTheVision 
-<h4>Objetivo do sistema: </h4>incentivar as pessoas a se ajudarem (sendo alunos ou não) e assim tirar dúvidas, além de ajudar no processo de formação dos mesmos, a idéia é a plataforma ser comunitária e trazer uma relação de ganha-ganha para os envolvidos, os usuários que consomem os vídeos irão poder absorver um conteúdo mais direcionado, enquanto aqueles que ensinam vão poder melhorar área como comunicação e claro aprender mais enquanto ensinam.
-<h4>Usuários principais: </h4>Alunos universitários;
-<h4>Principais funcionalidades: </h4>Envio de vídeos para a plataforma e visualização dos vídeos;
-<h4>Problema que será resolvido: </h4>Pessoas com problemas de aprendizado dentro de sala;
-<h4>Recursos desejados: </h4>Estrutura de feedbacks
-<h4>Plataforma: </h4>Web e Mobile;
-<h4>Prazos e expectativas: </h4>11/2025
+<h2>1. Visão Geral</h2>
 
+<p><strong>Problema:</strong><br>
+Alunos universitários que enfrentam dificuldades de aprendizado.</p>
 
-##Descrição dos Casos de Uso
-Caso de Uso 1: Enviar aula
-Ator principal: Professor
-Pré-condições: estar cadastrado na plataforma
+<p><strong>Solução:</strong><br>
+Uma plataforma comunitária que incentiva a ajuda mútua entre alunos, permitindo que tirem dúvidas e contribuam para a formação uns dos outros.</p>
 
-Fluxo Principal:
-1 - O professor deve selecionar a opção “Enviar aula” no topo do hub
-2 - O sistema abrirá um formulário para envio de aula, nome da aula, tema.
-3 - O professor preencherá todos os campos obrigatórios para o envio do vídeo.
-4 - O vídeo enviado será passado pela triagem para aprovação.
-5 - Ao ser aprovado exibe uma mensagem sinalizando sucesso no envio.
-6 - É postado e armazenado na plataforma.
+<p><strong>Usuários e Clientes:</strong><br>
+Qualquer pessoa interessada em conteúdos acadêmicos, independentemente do curso (engenharia, arquitetura, etc.).</p>
 
-Fluxo Alternativo: 
-No passo 3, caso algum campo obrigatório seja deixado em branco, o sistema irá exibir uma mensagem de erro apropriada impedindo o cadastro até que os campos sejam preenchidos corretamente.
-O vídeo armazenado irá, através das avaliações, dizer a média da avaliação do professor em questão.
+<p><strong>Recursos Principais:</strong></p>
+<ul>
+  <li>Envio de vídeos da comunidade para a plataforma;</li>
+  <li>Visualização e feedback dos conteúdos publicados.</li>
+</ul>
 
-Caso de Uso - Sistema de Login
-Caso de Uso 2: Cadastro de login
+<p><strong>Canais:</strong><br>
+Web e Mobile</p>
 
-Ator principal: Usuários
-Pré-condições: Possuir um email para confirmação do cadastro
-Fluxo Principal: 
-1 - No menu principal o usuário deve selecionar a opção de login
-2 - O sistema exibe campos de preenchimento(login e senha) e a opção “Não possui cadastro? Registre-se” para ser direcionado para a tela de cadastro
-3 - O sistema exibe campos de preenchimento “Nome Completo”, “Nome de usuário”, “Senha”,“Confirmar Senha”, “E-mail”, “Data de nascimento” e “Instituição de ensino (opcional)” botão de “Registrar” .
-4 - O sistema confirma se os campos estão todos preenchidos e envia e-mail de confirmação ao e-mail informado
-5 - Usuário precisa confirmar no e-mail o cadastro e será direcionado a plataforma
-6 - O sistema confirmará o cadastro e salva no sistema
+<p><strong>Custo e Receita:</strong><br>
+Plataforma comunitária sem foco inicial em monetização. Uso gratuito.</p>
 
-Fluxo Alternativo: 
-	-1º etapa o usuário pode entrar por link de tela de cadastro e ser direcionado na tela de cadastro automaticamente 
+<hr>
 
+<h2>2. Etapa 1</h2>
 
- 
+<p><strong>Nome do Sistema:</strong><br>CatTheVision</p>
 
+<p><strong>Objetivo do Sistema:</strong><br>
+Incentivar a troca de conhecimento entre pessoas (alunos ou não), permitindo que dúvidas sejam respondidas e que o processo de aprendizado seja enriquecido.<br>
+- Usuários que consomem vídeos recebem conteúdo direcionado.<br>
+- Usuários que produzem vídeos desenvolvem habilidades de comunicação e reforçam seu próprio aprendizado.</p>
 
+<p><strong>Usuários Principais:</strong><br>Alunos universitários.</p>
 
+<p><strong>Principais Funcionalidades:</strong></p>
+<ul>
+  <li>Envio de vídeos para a plataforma;</li>
+  <li>Visualização dos vídeos.</li>
+</ul>
 
+<p><strong>Problema Resolvido:</strong><br>
+Dificuldade de aprendizado em sala de aula.</p>
 
+<p><strong>Recursos Desejados:</strong><br>
+Estrutura de feedbacks para avaliação de conteúdos.</p>
 
-Caso de Uso - Assistir Aula
-Caso de Uso 3: 
+<p><strong>Plataformas:</strong><br>
+Web e Mobile.</p>
+
+<p><strong>Prazos e Expectativas:</strong><br>
+Novembro de 2025.</p>
+
+<hr>
+
+<h2>3. Casos de Uso</h2>
+
+<h3>3.1. Enviar Aula</h3>
+
+<p><strong>Ator Principal:</strong> Professor<br>
+<strong>Pré-condição:</strong> Estar cadastrado na plataforma.</p>
+
+<p><strong>Fluxo Principal:</strong></p>
+<ol>
+  <li>Selecionar “Enviar aula” no topo do hub.</li>
+  <li>Sistema exibe formulário para envio: nome da aula e tema.</li>
+  <li>Preencher todos os campos obrigatórios.</li>
+  <li>Vídeo enviado passa por triagem para aprovação.</li>
+  <li>Após aprovação, exibe mensagem de sucesso.</li>
+  <li>Conteúdo é postado e armazenado na plataforma.</li>
+</ol>
+
+<p><strong>Fluxo Alternativo:</strong></p>
+<ul>
+  <li>Caso algum campo obrigatório não seja preenchido, o sistema exibe mensagem de erro e impede o envio.</li>
+  <li>Após publicado, o vídeo recebe avaliações que geram a média de nota do professor.</li>
+</ul>
+
+<hr>
+
+<h3>3.2. Cadastro de Login</h3>
+
+<p><strong>Ator Principal:</strong> Usuário<br>
+<strong>Pré-condição:</strong> Possuir e-mail válido para confirmação.</p>
+
+<p><strong>Fluxo Principal:</strong></p>
+<ol>
+  <li>No menu principal, selecionar a opção de login.</li>
+  <li>Sistema exibe campos de login e senha, além da opção “Não possui cadastro? Registre-se”.</li>
+  <li>Ao selecionar “Registrar”, o sistema solicita: Nome Completo, Nome de Usuário, Senha, Confirmar Senha, E-mail, Data de Nascimento e Instituição de Ensino (opcional).</li>
+  <li>Sistema verifica preenchimento dos campos e envia e-mail de confirmação.</li>
+  <li>Usuário confirma o cadastro via e-mail e é direcionado para a plataforma.</li>
+  <li>Sistema salva o cadastro.</li>
+</ol>
+
+<p><strong>Fluxo Alternativo:</strong></p>
+<ul>
+  <li>Usuário pode acessar a tela de cadastro diretamente via link.</li>
+</ul>
+
+<hr>
+
+<h3>3.3. Assistir Aula</h3>
+
+<p><strong>Ator Principal:</strong> Usuário (aluno ou não)<br>
+<strong>Pré-condição:</strong> Estar cadastrado na plataforma e ter acesso à internet.</p>
+
+<p><strong>Fluxo Principal:</strong></p>
+<ol>
+  <li>No menu principal, selecionar a opção “Aulas”.</li>
+  <li>Sistema exibe lista de vídeos disponíveis com título, professor e avaliação média.</li>
+  <li>Usuário seleciona um vídeo.</li>
+  <li>Sistema abre a tela de reprodução do vídeo.</li>
+  <li>Usuário assiste ao conteúdo.</li>
+  <li>Ao final, o usuário pode deixar uma avaliação ou comentário sobre a aula.</li>
+</ol>
+
+<p><strong>Fluxo Alternativo:</strong></p>
+<ul>
+  <li>Caso a conexão com a internet falhe durante a reprodução, o sistema exibe mensagem de erro e oferece a opção de tentar novamente.</li>
+  <li>Se o vídeo não estiver mais disponível, exibe mensagem informando a indisponibilidade.</li>
+</ul>
