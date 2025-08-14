@@ -110,12 +110,12 @@ Novembro de 2025.</p>
 
 <p><strong>Fluxo Principal:</strong></p>
 <ol>
-  <li>No menu principal, selecionar a opção “Aulas”.</li>
-  <li>Sistema exibe lista de vídeos disponíveis com título, professor e avaliação média.</li>
-  <li>Usuário seleciona um vídeo.</li>
-  <li>Sistema abre a tela de reprodução do vídeo.</li>
+  <li>No menu principal, selecionar a opção “Módulos”.</li>
+  <li>Sistema exibe lista de Módulos disponíveis com título linguagen abordada e tempo de duração.</li>
+  <li>Usuário seleciona um Módulo</li>
+  <li>Sistema mostra a quantidade de aulas do módulo clicado</li>
   <li>Usuário assiste ao conteúdo.</li>
-  <li>Ao final, o usuário pode deixar uma avaliação ou comentário sobre a aula.</li>
+  <li>Ao final, o usuário pode deixar uma avaliação ou comentário sobre na aula.</li>
 </ol>
 
 <p><strong>Fluxo Alternativo:</strong></p>
